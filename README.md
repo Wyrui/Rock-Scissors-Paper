@@ -1,2 +1,3 @@
-# Rock-Scissors-Paper
-Rock, Scissors, Paper game on C, first self-made "project". Still learning the basics.
+Simple game, comparisons made with numbers.
+
+Rock is 1, Scissors is 2, Paper is 3
